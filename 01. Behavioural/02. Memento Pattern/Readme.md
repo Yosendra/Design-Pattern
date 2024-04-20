@@ -4,8 +4,8 @@
 
 ### Program Diagram
 
-![UML Diagram](https://github.com/Yosendra/Design-Pattern/blob/main/Diagrams/MementoProgram.jpg 'UML Diagram')
+![UML Diagram](https://github.com/Yosendra/Design-Pattern/blob/main/Diagrams/MementoProgram.jpg?raw=true 'UML Diagram')
 
 ### Formal Diagram
 
-![Formal UML Diagram](https://github.com/Yosendra/Design-Pattern/blob/main/Diagrams/MementoFormal.jpg 'Formal UML Diagram')
+![Formal UML Diagram](https://github.com/Yosendra/Design-Pattern/blob/main/Diagrams/MementoFormal.jpg?raw=true 'Formal UML Diagram')
