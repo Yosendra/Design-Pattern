@@ -4,8 +4,8 @@
 
 ### Program Diagram
 
-![UML Diagram](Diagrams/MementoProgram.jpg?raw=true 'UML Diagram')
+![UML Diagram](Diagrams/Program.jpg?raw=true 'UML Diagram')
 
 ### Formal Diagram
 
-![Formal UML Diagram](Diagrams/MementoFormal.jpg?raw=true 'Formal UML Diagram')
+![Formal UML Diagram](Diagrams/Formal.jpg?raw=true 'Formal UML Diagram')
