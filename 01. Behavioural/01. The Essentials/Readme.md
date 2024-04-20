@@ -8,7 +8,7 @@
 
 ###### Encapsulation
 
-> Bundling the data and methods that operate on the data within one unit or one class and hiding the values or state of an object inside the class. With this, we can prevent objects going in an invalid state.
+> Bundling the data and methods that operate on the data within one unit or one class and hiding the values or state of an object inside the class. With this, we can prevent objects going in an invalid state
 
 ###### Abstraction
 
