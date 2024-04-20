@@ -1,5 +1,4 @@
-﻿
-namespace Memento;
+﻿namespace Memento;
 
 public class Editor
 {
@@ -7,7 +6,7 @@ public class Editor
 
     public EditorState CreateState()
     {
-        return new EditorState(Content);
+        return new(Content);
     }
 
     public void Restore(EditorState state)

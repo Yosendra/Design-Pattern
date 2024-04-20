@@ -2,18 +2,15 @@
 
 public class History
 {
-    private readonly List<EditorState> _states = [];
+    private readonly Stack<EditorState> _states = new();
 
     public void Push(EditorState state)
     {
-        _states.Add(state);
+        _states.Push(state);
     }
 
     public EditorState Pop()
     {
-        EditorState lastState = _states.Last();
-        _states.Remove(lastState);
-
-        return lastState;
+        return _states.Pop();
     }
 }
